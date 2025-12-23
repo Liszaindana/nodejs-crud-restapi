@@ -17,3 +17,18 @@ Secara teknis, projek ini memiliki beberapa karakteristik utama:
 Projek ini telah divalidasi melalui pengujian menggunakan Postman, di mana setiap fungsi terbukti mampu menghasilkan respon status HTTP yang tepat dan data yang akurat sesuai dengan permintaan pengguna.
 
 Berikut merupakan bukti Screenshot POSTMAN
+1. POST
+![alt text](./Gambar/Post_Categories.png)
+![alt text](./Gambar/Post_Products-1.png)
+
+2. GET
+![alt text](./Gambar/Get_Categories.png)
+![alt text](./Gambar/Get_Products.png)
+
+3. PUT
+![alt text](./Gambar/Update_Categories.png)
+![alt text](./Gambar/Update_Products.png)
+
+4. DELETE
+![alt text](./Gambar/Delete_Categories.png)
+![alt text](./Gambar/Delete_Products.png)
