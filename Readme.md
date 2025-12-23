@@ -19,7 +19,7 @@ Projek ini telah divalidasi melalui pengujian menggunakan Postman, di mana setia
 Berikut merupakan bukti Screenshot POSTMAN
 1. POST
 ![alt text](./Gambar/Post_Categories.png)
-![alt text](./Gambar/Post_Products-1.png)
+![alt text](./Gambar/Post_Products.png)
 
 2. GET
 ![alt text](./Gambar/Get_Categories.png)
